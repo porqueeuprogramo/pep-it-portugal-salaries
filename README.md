@@ -207,7 +207,7 @@ Fora de Portugal
 | Cibersecurity                                                                          | 1 |  €                  (196) |  |  €                (196) |  |  |
 | Gamedev                                                                                | 1 |  €                  (170) |  |  |  €                (170) |  |
 | QA                                                                                     | 2 |  €                    322 |  |  €                  (13) |  |  €                  650 |
-| IA                                                                                     |  |  €              (1,210) |  |  |  |  |
+| IA                                                                                     |  |  |  |  |  |  |
 | Produto                                                                                | 2 |  €                    561 |  |  €                  561 |  |  |
 
 | Alojamento (Emprestimo Habit. T1) + Agua / Luz / Internet + Alimentação  + Transportes |
