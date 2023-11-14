@@ -140,48 +140,51 @@ Fora de Portugal
 | Gamedev                                   |                                                   |
 | Cibersecurity                             |                                                   |
 
-| Tabela IRS (Portugal) 2023 (1º Semestre) |
-| ---------------------------------------- |
-| 762                                      | 0.0% |
-| 790                                      | 2.0% |
-| 812                                      | 4.0% |
-| 863                                      | 7.0% |
-| 964                                      | 9.3% |
-| 1051                                     | 11.2% |
-| 1113                                     | 12.0% |
-| 1194                                     | 13.0% |
-| 1280                                     | 14.0% |
-| 1380                                     | 15.1% |
-| 1466                                     | 16.2% |
-| 1609                                     | 17.2% |
-| 1762                                     | 18.6% |
-| 1925                                     | 19.9% |
-| 2035                                     | 20.9% |
-| 2151                                     | 21.9% |
-| 2283                                     | 22.8% |
-| 2437                                     | 23.8% |
-| 2609                                     | 24.8% |
-| 2848                                     | 25.8% |
-| 3195                                     | 27.0% |
-| 3637                                     | 28.6% |
-| 4239                                     | 29.7% |
-| 4786                                     | 31.4% |
-| 5346                                     | 32.3% |
-| 6052                                     | 33.3% |
+Tabela IRS (Portugal) 2023 (1º Semestre)
 
-| Média Salário Líquido Mensal (IRS + Segurança Social) |                      |                                  |                                                 |
-| ----------------------------------------------------- | -------------------- | -------------------------------- | ----------------------------------------------- |
-|                                                       | Nº Pessoas do Estudo | Média de Salario Liquido  Mensal | Média de Salario Liquido Mensal (>=0 - <=1 exp) | Média de Salario Liquido Mensal (>1 - <=3 exp) | Média de Salario Liquido Mensal (3 - <=5 exp) | Média de Salario Liquido Mensal (5+ exp) |
-| Frontend                                              | 10                   |  €                 1,366         |  €                  852                         |  €               1,010 |  €               1,926 |  €               1,904 |
-| Fullstack                                             | 25                   |  €                 1,342         |  €                  943                         |  €               1,191 |  €               1,381 |  €               2,027 |
-| Backend                                               | 18                   |  €                 1,354         |  €               1,161                          |  €               1,383 |  €               1,362 |  €               1,729 |
-| DevOps                                                | 18                   |  €                 1,436         |  €               1,153                          |  €               1,162 |  €               1,404 |  €               2,414 |
-| Data                                                  | 4                    |  €                 1,141         |  €               1,111                          |  €               1,207 |  |  |
-| Cibersecurity                                         | 1                    |  €                 1,014         |                                                 |  €               1,014 |  |  |
-| Gamedev                                               | 1                    |  €                 1,040         |                                                 |  |  €               1,040 |  |
-| QA                                                    | 2                    |  €                 1,532         |                                                 |  €               1,197 |  |  €               1,860 |
-| IA                                                    |                      |                                  |                                                 |  |  |  |
-| Produto                                               | 2                    |  €                 1,771         |                                                 |  €               1,771 |  |  |
+| Salário Bruto | IRS % |
+| ------------- | ----- |
+| 762           | 0.0%  |
+| 790           | 2.0%  |
+| 812           | 4.0%  |
+| 863           | 7.0%  |
+| 964           | 9.3%  |
+| 1051          | 11.2% |
+| 1113          | 12.0% |
+| 1194          | 13.0% |
+| 1280          | 14.0% |
+| 1380          | 15.1% |
+| 1466          | 16.2% |
+| 1609          | 17.2% |
+| 1762          | 18.6% |
+| 1925          | 19.9% |
+| 2035          | 20.9% |
+| 2151          | 21.9% |
+| 2283          | 22.8% |
+| 2437          | 23.8% |
+| 2609          | 24.8% |
+| 2848          | 25.8% |
+| 3195          | 27.0% |
+| 3637          | 28.6% |
+| 4239          | 29.7% |
+| 4786          | 31.4% |
+| 5346          | 32.3% |
+| 6052          | 33.3% |
+
+Média Salário Líquido Mensal (IRS + Segurança Social)
+
+|               | Nº Pessoas do Estudo | Média de Salario Liquido  Mensal | Média de Salario Liquido Mensal (>=0 - <=1 exp) | Média de Salario Liquido Mensal (>1 - <=3 exp) | Média de Salario Liquido Mensal (3 - <=5 exp) | Média de Salario Liquido Mensal (5+ exp) |
+| ------------- | -------------------- | -------------------------------- | ----------------------------------------------- | ---------------------------------------------- | --------------------------------------------- | ---------------------------------------- |
+| Frontend      | 10                   | 1,366 €                          | 852 €                                           | 1,010 €                                        | 1,926 €                                       | 1,904 €                                  |
+| Fullstack     | 25                   | 1,342 €                          | 943 €                                           | 1,191 €                                        | 1,381 €                                       | 2,027 €                                  |
+| Backend       | 18                   | 1,354 €                          | 1,161 €                                         | 1,383 €                                        | 1,362 €                                       | 1,729 €                                  |
+| DevOps        | 18                   | 1,436 €                          | 1,153 €                                         | 1,162 €                                        | 1,404 €                                       | 2,414 €                                  |
+| Data          | 4                    | 1,141 €                          | 1,111 €                                         | 1,207 €                                        |                                               |                                          |
+| Cibersecurity | 1                    | 1,014 €                          |                                                 | 1,014 €                                        |                                               |                                          |
+| Gamedev       | 1                    | 1,040 €                          |                                                 |                                                | 1,040 €                                       |                                          |
+| QA            | 2                    | 1,532 €                          |                                                 | 1,197 €                                        |                                               | 1,860 €                                  |
+| IA            |                      |                                  |                                                 |                                                |                                               |                                          |
+| Produto       | 2                    | 1,771 €                          |                                                 | 1,771 €                                        |                                               |                                          |
 
 | Média DESPESAS FIXAS / GERAIS (1 Pessoa) | PREÇO |
 | ---------------------------------------- | ----- |
@@ -196,46 +199,47 @@ Fora de Portugal
 | --------------------------------- | ------------------------- | --------------------------------- |
 |  €         1,210                  |  €      860               |  €          1,060                 |
 
-| Alojamento (Renda Apartamento T1) + Agua / Luz / Internet + Alimentação  + Transportes |
-| -------------------------------------------------------------------------------------- |
-|                                                                                        | Nº Pessoas do Estudo | Média de Salario Liquido Mensal | Média de Salario Liquido Mensal (>=0 - <=1 exp) | Média de Salario Liquido Mensal (>1 - <=3 exp) | Média de Salario Liquido Mensal (3 - <=5 exp) | Média de Salario Liquido Mensal (5+ exp) |
-| Frontend                                                                               | 10 |  €                    156 |  €                (358) |  €                (200) |  €                  716 |  €                  694 |
-| Fullstack                                                                              | 25 |  €                    132 |  €                (267) |  €                  (19) |  €                  171 |  €                  817 |
-| Backend                                                                                | 18 |  €                    144 |  €                  (49) |  €                  173 |  €                  152 |  €                  519 |
-| DevOps                                                                                 | 18 |  €                    226 |  €                  (57) |  €                  (48) |  €                  194 |  €               1,204 |
-| Data                                                                                   | 4 |  €                    (69) |  €                  (99) |  €                     (3) |  |  |
-| Cibersecurity                                                                          | 1 |  €                  (196) |  |  €                (196) |  |  |
-| Gamedev                                                                                | 1 |  €                  (170) |  |  |  €                (170) |  |
-| QA                                                                                     | 2 |  €                    322 |  |  €                  (13) |  |  €                  650 |
-| IA                                                                                     |  |  €              (1,210) |  |  |  |  |
-| Produto                                                                                | 2 |  €                    561 |  |  €                  561 |  |  |
+Alojamento (Renda Apartamento T1) + Agua / Luz / Internet + Alimentação  + Transportes
 
-| Alojamento (Emprestimo Habit. T1) + Agua / Luz / Internet + Alimentação  + Transportes |
-| -------------------------------------------------------------------------------------- |
-|                                                                                        | Nº Pessoas do Estudo | Média de Salario Liquido Mensal | Média de Salario Liquido Mensal (>=0 - <=1 exp) | Média de Salario Liquido Mensal (>1 - <=3 exp) | Média de Salario Liquido Mensal (3 - <=5 exp) | Média de Salario Liquido Mensal (5+ exp) |
-| Frontend                                                                               | 10 |  €              306.38 |  €          (207.71) |  €            (50.47) |  €            866.43 |  €            844.29 |
-| Fullstack                                                                              | 25 |  €              281.81 |  €          (117.46) |  €            131.27 |  €            321.46 |  €            967.20 |
-| Backend                                                                                | 18 |  €              294.27 |  €            101.20 |  €            323.07 |  €            302.00 |  €            668.88 |
-| DevOps                                                                                 | 18 |  €              375.99 |  €               92.90 |  €            102.45 |  €            344.31 |  €         1,354.36 |
-| Data                                                                                   | 4 |  €                 81.11 |  €               51.21 |  €            146.86 |  |  |
-| Cibersecurity                                                                          | 1 |  €              (46.00) |  |  €            (46.00) |  |  |
-| Gamedev                                                                                | 1 |  €              (20.00) |  |  |  €            (20.00) |  |
-| QA                                                                                     | 2 |  €              472.20 |  |  €            136.80 |  |  €            800.00 |
-| IA                                                                                     |  |  |  |  |  |  |
-| Produto                                                                                | 2 |  €              711.43 |  |  €            711.43 |  |  |
+|               | Nº Pessoas do Estudo | Média de Salario Liquido Mensal | Média de Salario Liquido Mensal (>=0 - <=1 exp) | Média de Salario Liquido Mensal (>1 - <=3 exp) | Média de Salario Liquido Mensal (3 - <=5 exp) | Média de Salario Liquido Mensal (5+ exp) |
+| ------------- | -------------------- | ------------------------------- | ----------------------------------------------- | ---------------------------------------------- | --------------------------------------------- | ---------------------------------------- |
+| Frontend      | 10                   | 156 €                           | \-358 €                                         | \-200 €                                        | 716 €                                         | 694 €                                    |
+| Fullstack     | 25                   | 132 €                           | \-267 €                                         | \-19 €                                         | 171 €                                         | 817 €                                    |
+| Backend       | 18                   | 144 €                           | \-49 €                                          | 173 €                                          | 152 €                                         | 519 €                                    |
+| DevOps        | 18                   | 226 €                           | \-57 €                                          | \-48 €                                         | 194 €                                         | 1,204 €                                  |
+| Data          | 4                    | \-69 €                          | \-99 €                                          | \-3 €                                          |                                               |                                          |
+| Cibersecurity | 1                    | \-196 €                         |                                                 | \-196 €                                        |                                               |                                          |
+| Gamedev       | 1                    | \-170 €                         |                                                 |                                                | \-170 €                                       |                                          |
+| QA            | 2                    | 322 €                           |                                                 | \-13 €                                         |                                               | 650 €                                    |
+| IA            |                      | \-1,210 €                       |                                                 |                                                |                                               |                                          |
+| Produto       | 2                    | 561 €                           |                                                 | 561 €                                          |                                               |                                          |
 
-| Alojamento (Renda Quarto) + Agua / Luz / Internet + Alimentação  + Transportes |
-| ------------------------------------------------------------------------------ |
-|                                                                                | Nº Pessoas do Estudo | Média de Salario Liquido Mensal | Média de Salario Liquido Mensal (>=0 - <=1 exp) | Média de Salario Liquido Mensal (>1 - <=3 exp) | Média de Salario Liquido Mensal (3 - <=5 exp) | Média de Salario Liquido Mensal (5+ exp) |
-| Frontend                                                                       | 10 |  €                    506 |  €                     (8) |  €                  150 |  €               1,066 |  €               1,044 |
-| Fullstack                                                                      | 25 |  €                    482 |  €                     83 |  €                  331 |  €                  521 |  €               1,167 |
-| Backend                                                                        | 18 |  €                    494 |  €                  301 |  €                  523 |  €                  502 |  €                  869 |
-| DevOps                                                                         | 18 |  €                    576 |  €                  293 |  €                  302 |  €                  544 |  €               1,554 |
-| Data                                                                           | 4 |  €                    281 |  €                  251 |  €                  347 |  |  |
-| Cibersecurity                                                                  | 1 |  €                    154 |  |  €                  154 |  |  |
-| Gamedev                                                                        | 1 |  €                    180 |  |  |  €                  180 |  |
-| QA                                                                             | 2 |  €                    672 |  |  €                  337 |  |  €               1,000 |
-| IA                                                                             |  |  |  |  |  |  |
-| Produto                                                                        | 2 |  €                    911 |  |  €                  911 |  |  |
+Alojamento (Emprestimo Habit. T1) + Agua / Luz / Internet + Alimentação  + Transportes
 
+|               | Nº Pessoas do Estudo | Média de Salario Liquido Mensal | Média de Salario Liquido Mensal (>=0 - <=1 exp) | Média de Salario Liquido Mensal (>1 - <=3 exp) | Média de Salario Liquido Mensal (3 - <=5 exp) | Média de Salario Liquido Mensal (5+ exp) |
+| ------------- | -------------------- | ------------------------------- | ----------------------------------------------- | ---------------------------------------------- | --------------------------------------------- | ---------------------------------------- |
+| Frontend      | 10                   | 306 €                           | \-208 €                                         | \-50 €                                         | 866 €                                         | 844 €                                    |
+| Fullstack     | 25                   | 282 €                           | \-117 €                                         | 131 €                                          | 321 €                                         | 967 €                                    |
+| Backend       | 18                   | 294 €                           | 101 €                                           | 323 €                                          | 302 €                                         | 669 €                                    |
+| DevOps        | 18                   | 376 €                           | 93 €                                            | 102 €                                          | 344 €                                         | 1,354 €                                  |
+| Data          | 4                    | 81 €                            | 51 €                                            | 147 €                                          |                                               |                                          |
+| Cibersecurity | 1                    | \-46 €                          |                                                 | \-46 €                                         |                                               |                                          |
+| Gamedev       | 1                    | \-20 €                          |                                                 |                                                | \-20 €                                        |                                          |
+| QA            | 2                    | 472 €                           |                                                 | 137 €                                          |                                               | 800 €                                    |
+| IA            |                      |                                 |                                                 |                                                |                                               |                                          |
+| Produto       | 2                    | 711 €                           |                                                 | 711 €                                          |                                               |                                          |
 
+Alojamento (Renda Quarto) + Agua / Luz / Internet + Alimentação  + Transportes
+
+|               | Nº Pessoas do Estudo | Média de Salario Liquido Mensal | Média de Salario Liquido Mensal (>=0 - <=1 exp) | Média de Salario Liquido Mensal (>1 - <=3 exp) | Média de Salario Liquido Mensal (3 - <=5 exp) | Média de Salario Liquido Mensal (5+ exp) |
+| ------------- | -------------------- | ------------------------------- | ----------------------------------------------- | ---------------------------------------------- | --------------------------------------------- | ---------------------------------------- |
+| Frontend      | 10                   | 506 €                           | \-8 €                                           | 150 €                                          | 1,066 €                                       | 1,044 €                                  |
+| Fullstack     | 25                   | 482 €                           | 83 €                                            | 331 €                                          | 521 €                                         | 1,167 €                                  |
+| Backend       | 18                   | 494 €                           | 301 €                                           | 523 €                                          | 502 €                                         | 869 €                                    |
+| DevOps        | 18                   | 576 €                           | 293 €                                           | 302 €                                          | 544 €                                         | 1,554 €                                  |
+| Data          | 4                    | 281 €                           | 251 €                                           | 347 €                                          |                                               |                                          |
+| Cibersecurity | 1                    | 154 €                           |                                                 | 154 €                                          |                                               |                                          |
+| Gamedev       | 1                    | 180 €                           |                                                 |                                                | 180 €                                         |                                          |
+| QA            | 2                    | 672 €                           |                                                 | 337 €                                          |                                               | 1,000 €                                  |
+| IA            |                      |                                 |                                                 |                                                |                                               |                                          |
+| Produto       | 2                    | 911 €                           |                                                 | 911 €                                          |                                               |                                          |
