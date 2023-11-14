@@ -202,7 +202,7 @@ Média Salário Líquido Mensal (IRS + Segurança Social)
 Alojamento (Renda Apartamento T1) + Agua / Luz / Internet + Alimentação  + Transportes
 
 |               | Nº Pessoas do Estudo | Média de Salario Liquido Mensal | Média de Salario Liquido Mensal (>=0 - <=1 exp) | Média de Salario Liquido Mensal (>1 - <=3 exp) | Média de Salario Liquido Mensal (3 - <=5 exp) | Média de Salario Liquido Mensal (5+ exp) |
-| ------------- | -------------------- | ------------------------------- | ----------------------------------------------- | ---------------------------------------------- | --------------------------------------------- | ---------------------------------------- |
+| ------------- | -------------------- |---------------------------------| ----------------------------------------------- | ---------------------------------------------- | --------------------------------------------- | ---------------------------------------- |
 | Frontend      | 10                   | 156 €                           | \-358 €                                         | \-200 €                                        | 716 €                                         | 694 €                                    |
 | Fullstack     | 25                   | 132 €                           | \-267 €                                         | \-19 €                                         | 171 €                                         | 817 €                                    |
 | Backend       | 18                   | 144 €                           | \-49 €                                          | 173 €                                          | 152 €                                         | 519 €                                    |
@@ -211,7 +211,7 @@ Alojamento (Renda Apartamento T1) + Agua / Luz / Internet + Alimentação  + Tra
 | Cibersecurity | 1                    | \-196 €                         |                                                 | \-196 €                                        |                                               |                                          |
 | Gamedev       | 1                    | \-170 €                         |                                                 |                                                | \-170 €                                       |                                          |
 | QA            | 2                    | 322 €                           |                                                 | \-13 €                                         |                                               | 650 €                                    |
-| IA            |                      | \-1,210 €                       |                                                 |                                                |                                               |                                          |
+| IA            |                      |                                 |                                                 |                                                |                                               |                                          |
 | Produto       | 2                    | 561 €                           |                                                 | 561 €                                          |                                               |                                          |
 
 Alojamento (Emprestimo Habit. T1) + Agua / Luz / Internet + Alimentação  + Transportes
